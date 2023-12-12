@@ -3,7 +3,7 @@
     src: url('./circular-std-medium-500.ttf') format('truetype');
   }
 body {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 *{
     font-family: 'Circular Std', sans-serif;
